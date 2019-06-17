@@ -1,0 +1,17 @@
+Package: nickR
+Type: Package
+Title: Secret Santa randomiser
+Version: 0.1.0
+Author: Iain Proctor
+Maintainer: Iain Proctor <iain.proctor@basf.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat
+Imports: 
+    magrittr,
+    stringr
