@@ -3,8 +3,8 @@ title: "nickR"
 output: github_document
 ---
 
-# nickRs
-Secret santa randomisation
+# nickR
+A package for secret santa randomisation
 
 ## Ideas
 
@@ -14,31 +14,5 @@ Secret santa randomisation
 
 ## Shiny app
 
-* Email addresses to be added, so all participants receive a notification for whom they ahve to purchase a present.
+* Email addresses to be added, so all participants receive a notification for whom they have to purchase a present.
 * Manager can receive the complete list in case they wish to confirm selections are unique.
-
-# ```{r setup, include=FALSE}
-# knitr::opts_chunk$set(echo = TRUE)
-# ```
-# 
-# ## GitHub Documents
-# 
-# This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
-# 
-# ## Including Code
-# 
-# You can include R code in the document as follows:
-# 
-# ```{r cars}
-# summary(cars)
-# ```
-# 
-# ## Including Plots
-# 
-# You can also embed plots, for example:
-# 
-# ```{r pressure, echo=FALSE}
-# plot(pressure)
-# ```
-# 
-# Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
